@@ -114,10 +114,10 @@ jQuery(document).ready(function ($) {
     }
     Email.send({
       Host: "smtp.gmail.com",
-      Username: "chithakumar13@gmail.com",
+      Username: "foreverborin69@gmail.com",
       Password: "oavmcyerfvphghxq",
-      To: 'chithakumar13@gmail.com',
-      From: str.email || "chithakumar13@gmail.com",
+      To: 'harsh07031997@gmail.com',
+      From: str.email || "harsh07031997@gmail.com",
       Subject: str.name + "-" + str.subject,
       Body: str.message
     }).then(
